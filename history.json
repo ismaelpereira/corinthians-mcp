@@ -1,0 +1,326 @@
+{
+   "history_summary": "O Sport Club Corinthians Paulista (SCCP) foi fundado em 1º de setembro de 1910, no bairro do Bom Retiro (São Paulo), por um grupo de operários (Joaquim Ambrósio, Antônio Pereira, Raphael Perrone, Anselmo Corrêa e Carlos Silva), em reunião à luz de um lampião às 20h30. O nome foi inspirado no Corinthian FC (Inglaterra), que excursionava pelo Brasil na época. O primeiro grande marco esportivo veio cedo: em 1914, com apenas quatro anos de existência, o clube conquistou seu primeiro Campeonato Paulista de forma invicta. Décadas depois, a relação com a torcida se consolidou como um dos traços mais marcantes do clube, com episódios como a Invasão Corinthiana ao Maracanã (5 de dezembro de 1976), quando dezenas de milhares de corinthianos se deslocaram ao Rio para apoiar o time na semifinal do Brasileiro. No ano seguinte, o Corinthians encerrou a histórica fila de 23 anos sem títulos ao conquistar o Paulistão de 1977, com gol de Basílio na final contra a Ponte Preta. No início dos anos 1980, o clube virou símbolo cultural e político com a Democracia Corinthiana (aprox. 1982–1984), movimento interno que ampliou a participação dos atletas nas decisões e ficou associado a Sócrates, Wladimir e Casagrande. Em âmbito nacional, o Corinthians conquistou seu primeiro Campeonato Brasileiro em 1990 e acumulou outras conquistas no torneio. Internacionalmente, viveu seu auge recente em 2012: venceu a CONMEBOL Libertadores de forma invicta e, no mesmo ano, foi campeão mundial ao derrotar o Chelsea por 1–0 na final no Japão. A torcida também protagonizou a chamada 'invasão' ao Japão em 2012. A casa do clube na era moderna, a Neo Química Arena (Arena Corinthians), foi construída em Itaquera e recebeu jogos da Copa do Mundo de 2014, incluindo a partida de abertura Brasil x Croácia em 12 de junho de 2014. Entre as conquistas mais recentes e já encerradas, destaca-se a Copa do Brasil de 2025, que tornou o clube tetracampeão do torneio.",
+   "references": [
+      "https://pt.wikipedia.org/wiki/Sport_Club_Corinthians_Paulista",
+      "https://pt.wikipedia.org/wiki/Democracia_Corinthiana",
+      "https://www.meutimao.com.br/historia-do-corinthians/fatos-marcantes/a_invasao_corinthiana_no_maracana",
+      "https://acervo.oglobo.globo.com/em-destaque/triunfo-do-corinthians-sobre-ponte-preta-em-1977-acaba-com-jejum-de-23-anos-21289484",
+      "https://www.youtube.com/watch?v=Bui2mO6AbxA",
+      "https://en.wikipedia.org/wiki/2012_FIFA_Club_World_Cup",
+      "https://www.fifa.com/en/articles/corinthians-club-world-cup-japan-fans-invasion-torcida",
+      "https://pt.wikipedia.org/wiki/Neo_Qu%C3%ADmica_Arena",
+      "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_opening_ceremony",
+      "https://www.cbf.com.br/futebol-brasileiro/noticias/copa-do-brasil-masculino/corinthians-e-tetracampeao-da-copa-do-brasil",
+      "https://futebolpaulista.com.br/Noticias/Detalhe/paulistao-sicredi-2025-corinthians-campeao-pela-31a-vez"
+   ],
+   "stadium": {
+      "name": "Neo Química Arena",
+      "other_names": [
+         "Arena Corinthians",
+         "Arena de São Paulo (denominação usada pela FIFA na Copa do Mundo de 2014)"
+      ],
+      "location": "Itaquera (Zona Leste), São Paulo, Brasil",
+      "official_inauguration_date": "2014-05-18",
+      "notes": "A inauguração oficial ocorreu em Corinthians x Figueirense (Campeonato Brasileiro de 2014). O estádio sediou a cerimônia e a partida de abertura da Copa do Mundo FIFA de 2014 (Brasil x Croácia) em 12 de junho de 2014.",
+      "references": [
+         "https://pt.wikipedia.org/wiki/Neo_Qu%C3%ADmica_Arena",
+         "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_opening_ceremony"
+      ]
+   },
+   "titles": [
+      {
+         "championship": "Campeonato Brasileiro (Série A)",
+         "count": 7,
+         "years": ["1990", "1998", "1999", "2005", "2011", "2015", "2017"],
+         "references": [
+            "https://pt.wikipedia.org/wiki/Sport_Club_Corinthians_Paulista"
+         ]
+      },
+      {
+         "championship": "Copa do Brasil",
+         "count": 4,
+         "years": ["1995", "2002", "2009", "2025"],
+         "references": [
+            "https://www.cbf.com.br/futebol-brasileiro/noticias/copa-do-brasil-masculino/corinthians-e-tetracampeao-da-copa-do-brasil",
+            "https://pt.wikipedia.org/wiki/Sport_Club_Corinthians_Paulista"
+         ]
+      },
+      {
+         "championship": "CONMEBOL Libertadores",
+         "count": 1,
+         "years": ["2012"],
+         "references": [
+            "https://pt.wikipedia.org/wiki/Copa_Libertadores_da_Am%C3%A9rica_de_2012",
+            "https://pt.wikipedia.org/wiki/Sport_Club_Corinthians_Paulista",
+            "https://www.youtube.com/watch?v=Bui2mO6AbxA"
+         ]
+      },
+      {
+         "championship": "Mundial de Clubes da FIFA",
+         "count": 2,
+         "years": ["2000", "2012"],
+         "references": [
+            "https://en.wikipedia.org/wiki/2000_FIFA_Club_World_Championship",
+            "https://en.wikipedia.org/wiki/2012_FIFA_Club_World_Cup",
+            "https://www.youtube.com/watch?v=29RkWC7ncyA"
+         ]
+      },
+      {
+         "championship": "Campeonato Paulista",
+         "count": 31,
+         "years": [
+            "1914",
+            "1916",
+            "1922",
+            "1923",
+            "1924",
+            "1928",
+            "1929",
+            "1930",
+            "1937",
+            "1938",
+            "1939",
+            "1941",
+            "1951",
+            "1952",
+            "1954",
+            "1977",
+            "1979",
+            "1982",
+            "1983",
+            "1988",
+            "1995",
+            "1997",
+            "1999",
+            "2001",
+            "2003",
+            "2009",
+            "2013",
+            "2017",
+            "2018",
+            "2019",
+            "2025"
+         ],
+         "references": [
+            "https://futebolpaulista.com.br/Noticias/Detalhe/paulistao-sicredi-2025-corinthians-campeao-pela-31a-vez",
+            "https://pt.wikipedia.org/wiki/Campeonato_Paulista_de_Futebol",
+            "https://pt.wikipedia.org/wiki/Sport_Club_Corinthians_Paulista"
+         ]
+      },
+      {
+         "championship": "Recopa Sul-Americana",
+         "count": 1,
+         "years": ["2013"],
+         "references": [
+            "https://pt.wikipedia.org/wiki/Sport_Club_Corinthians_Paulista"
+         ]
+      }
+   ],
+   "idols": [
+      {
+         "name": "Sócrates Brasileiro Sampaio de Souza Vieira de Oliveira",
+         "position": "Meio-campista / meia-atacante",
+         "years_active": ["1978-1984"],
+         "contribution": "Referência técnica e simbólica do Corinthians na década de 1980; associado ao período da Democracia Corinthiana e campeão paulista pelo clube.",
+         "know_as": "Doutor",
+         "references": [
+            "https://www.meutimao.com.br/idolos-do-corinthians/socrates",
+            "https://pt.wikipedia.org/wiki/S%C3%B3crates_%28futebolista%29",
+            "https://pt.wikipedia.org/wiki/Democracia_Corinthiana"
+         ]
+      },
+      {
+         "name": "Wladimir Rodrigues dos Santos",
+         "position": "Lateral-esquerdo",
+         "years_active": ["1972-1985", "1987"],
+         "contribution": "Jogador com maior número de partidas pelo Corinthians segundo o Meu Timão; campeão paulista (incluindo 1977) e um dos pilares da Democracia Corinthiana.",
+         "know_as": null,
+         "references": [
+            "https://www.meutimao.com.br/idolos-do-corinthians/wladimir",
+            "https://en.wikipedia.org/wiki/Wladimir_%28footballer%29",
+            "https://pt.wikipedia.org/wiki/Democracia_Corinthiana"
+         ]
+      },
+      {
+         "name": "Marcelo Pereira Surcin",
+         "position": "Meia-atacante",
+         "years_active": ["1994-1997", "1998-2001", "2006-2007"],
+         "contribution": "Ídolo do clube e destaque nas conquistas do fim dos anos 1990, incluindo títulos estaduais, nacionais e o Mundial de 2000.",
+         "know_as": "Marcelinho Carioca / Pé de anjo",
+         "references": [
+            "https://www.meutimao.com.br/idolos-do-corinthians/marcelinho_carioca",
+            "https://www.meutimao.com.br/jogador-do-corinthians/marcelinho-carioca"
+         ]
+      },
+      {
+         "name": "José Ferreira Neto",
+         "position": "Meia-atacante",
+         "years_active": ["1989-1993", "1996-1997"],
+         "contribution": "Ídolo segundo o Meu Timão; associado ao título brasileiro de 1990 e ao Paulista de 1997.",
+         "know_as": "Xodó da Fiel",
+         "references": [
+            "https://www.meutimao.com.br/idolos-do-corinthians/neto",
+            "https://www.meutimao.com.br/jogador-do-corinthians/neto",
+            "https://pt.wikipedia.org/wiki/Neto_%28futebolista%29"
+         ]
+      },
+      {
+         "name": "Roberto Rivellino",
+         "position": "Meia (meia-atacante)",
+         "years_active": ["1965-1974"],
+         "contribution": "Um dos grandes nomes técnicos da história do clube; período no Corinthians de 1965 a 1974 e apelido 'Reizinho do Parque'.",
+         "know_as": "Reizinho do Parque",
+         "references": ["https://pt.wikipedia.org/wiki/Roberto_Rivellino"]
+      },
+      {
+         "name": "João Roberto Basílio",
+         "position": "Meia",
+         "years_active": ["1975-1981"],
+         "contribution": "Autor do gol que marcou o título do Paulistão de 1977, associado ao fim da fila de 23 anos sem títulos.",
+         "know_as": "Pé de Anjo",
+         "references": [
+            "https://acervo.oglobo.globo.com/em-destaque/triunfo-do-corinthians-sobre-ponte-preta-em-1977-acaba-com-jejum-de-23-anos-21289484",
+            "https://www.meutimao.com.br/jogador-do-corinthians/basilio/gols"
+         ]
+      },
+      {
+         "name": "Cássio Ramos",
+         "position": "Goleiro",
+         "years_active": ["2012-2024"],
+         "contribution": "Campeão da Libertadores e do Mundial de 2012; eleito Bola de Ouro (Golden Ball) do Mundial de Clubes de 2012.",
+         "know_as": "Cássio",
+         "references": [
+            "https://en.wikipedia.org/wiki/2012_FIFA_Club_World_Cup",
+            "https://www.meutimao.com.br/jogador-do-corinthians/cassio"
+         ]
+      }
+   ],
+   "history_facts": [
+      {
+         "year": "1910",
+         "event": "Fundação do Sport Club Corinthians Paulista em 1º de setembro de 1910, no Bom Retiro, por cinco operários (Joaquim Ambrósio, Antônio Pereira, Raphael Perrone, Anselmo Corrêa e Carlos Silva), em reunião à luz de um lampião às 20h30.",
+         "name_for_event": null,
+         "references": [
+            "https://pt.wikipedia.org/wiki/Sport_Club_Corinthians_Paulista"
+         ]
+      },
+      {
+         "year": "1914",
+         "event": "Primeiro título do clube no futebol: Campeonato Paulista de 1914, conquistado de forma invicta (10 vitórias em 10 jogos), com Neco como artilheiro da competição.",
+         "name_for_event": null,
+         "references": [
+            "https://pt.wikipedia.org/wiki/Sport_Club_Corinthians_Paulista"
+         ]
+      },
+      {
+         "year": "1917",
+         "event": "Primeiro registro do confronto entre Corinthians e Palestra Itália (atual Palmeiras) em 6 de maio de 1917; o clássico se consolidou como o Derby Paulista.",
+         "name_for_event": "Derby Paulista",
+         "references": ["https://pt.wikipedia.org/wiki/Derby_Paulista"]
+      },
+      {
+         "year": "1931",
+         "event": "Registro de uma invasão anterior: milhares de torcedores foram até a Vila Belmiro para assistir ao clássico com o Santos em 4 de janeiro de 1931, valendo o Campeonato Paulista.",
+         "name_for_event": "Invasão à Vila Belmiro (menção histórica)",
+         "references": [
+            "https://www.meutimao.com.br/historia-do-corinthians/fatos-marcantes/a_invasao_corinthiana_no_maracana"
+         ]
+      },
+      {
+         "year": "1976",
+         "event": "Invasão Corinthiana ao Maracanã em 5 de dezembro de 1976, na semifinal do Campeonato Brasileiro contra o Fluminense: deslocamento estimado entre 60 e 70 mil corinthianos.",
+         "name_for_event": "Invasão Corinthiana (Maracanã)",
+         "references": [
+            "https://ludopedio.org.br/biblioteca/a-invasao-corinthiana-rio-05-de-dezembro-de-1976-2/",
+            "https://www.meutimao.com.br/historia-do-corinthians/fatos-marcantes/a_invasao_corinthiana_no_maracana"
+         ]
+      },
+      {
+         "year": "1977",
+         "event": "Fim da fila de 23 anos sem títulos: conquista do Campeonato Paulista de 1977, com gol de Basílio na final contra a Ponte Preta, no Morumbi.",
+         "name_for_event": "Fim da fila",
+         "references": [
+            "https://acervo.oglobo.globo.com/em-destaque/triunfo-do-corinthians-sobre-ponte-preta-em-1977-acaba-com-jejum-de-23-anos-21289484"
+         ]
+      },
+      {
+         "year": "1977",
+         "event": "Recorde histórico de público no Estádio do Morumbi citado por fonte oficial da Ponte Preta: 138.032 pagantes (146.082 no total) em Corinthians x Ponte Preta em 9 de outubro de 1977, pela segunda partida da final do Paulistão.",
+         "name_for_event": "Recorde de público do Morumbi (futebol)",
+         "references": ["https://www.pontepreta.com.br/morumbi-50-anos/"]
+      },
+      {
+         "year": "1982",
+         "event": "Consolidação do período conhecido como Democracia Corinthiana (início dos anos 1980), com participação ampliada dos atletas em decisões do cotidiano do futebol do clube; associada a Sócrates, Wladimir e outros líderes do elenco.",
+         "name_for_event": "Democracia Corinthiana",
+         "references": ["https://pt.wikipedia.org/wiki/Democracia_Corinthiana"]
+      },
+      {
+         "year": "1990",
+         "event": "Primeira conquista do Campeonato Brasileiro (Série A) pelo clube.",
+         "name_for_event": "Primeiro Brasileirão",
+         "references": [
+            "https://pt.wikipedia.org/wiki/Sport_Club_Corinthians_Paulista"
+         ]
+      },
+      {
+         "year": "2000",
+         "event": "Conquista do Mundial de Clubes da FIFA (edição de 2000): final contra o Vasco da Gama terminou 0–0 e o Corinthians venceu por 4–3 nos pênaltis no Maracanã em 14 de janeiro de 2000.",
+         "name_for_event": "Mundial 2000",
+         "references": [
+            "https://en.wikipedia.org/wiki/2000_FIFA_Club_World_Championship",
+            "https://www.youtube.com/watch?v=29RkWC7ncyA"
+         ]
+      },
+      {
+         "year": "2012",
+         "event": "Conquista da CONMEBOL Libertadores de 2012 de forma invicta (conforme material oficial da CONMEBOL).",
+         "name_for_event": "Libertadores invicta",
+         "references": [
+            "https://pt.wikipedia.org/wiki/Copa_Libertadores_da_Am%C3%A9rica_de_2012",
+            "https://www.youtube.com/watch?v=Bui2mO6AbxA"
+         ]
+      },
+      {
+         "year": "2012",
+         "event": "Conquista do Mundial de Clubes da FIFA de 2012: Corinthians 1–0 Chelsea na final (gol de Paolo Guerrero) em 16 de dezembro de 2012, no Estádio Internacional de Yokohama.",
+         "name_for_event": "Mundial 2012",
+         "references": [
+            "https://en.wikipedia.org/wiki/2012_FIFA_Club_World_Cup"
+         ]
+      },
+      {
+         "year": "2012",
+         "event": "Relato da FIFA sobre a 'invasão' ao Japão no Mundial de 2012: cerca de 30 mil corinthianos teriam viajado para acompanhar o time.",
+         "name_for_event": "Invasão ao Japão",
+         "references": [
+            "https://www.fifa.com/en/articles/corinthians-club-world-cup-japan-fans-invasion-torcida"
+         ]
+      },
+      {
+         "year": "2014",
+         "event": "A Arena Corinthians (atual Neo Química Arena) recebeu jogos da Copa do Mundo de 2014, incluindo a partida de abertura Brasil x Croácia em 12 de junho de 2014; durante a Copa o estádio foi chamado de 'Arena de São Paulo' pela FIFA.",
+         "name_for_event": "Arena Corinthians na Copa de 2014",
+         "references": [
+            "https://pt.wikipedia.org/wiki/Neo_Qu%C3%ADmica_Arena",
+            "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_opening_ceremony"
+         ]
+      },
+      {
+         "year": "2025",
+         "event": "Conquista da Copa do Brasil de 2025, tornando o Corinthians tetracampeão do torneio (segundo publicação da CBF sobre o título).",
+         "name_for_event": "Tetra da Copa do Brasil",
+         "references": [
+            "https://www.cbf.com.br/futebol-brasileiro/noticias/copa-do-brasil-masculino/corinthians-e-tetracampeao-da-copa-do-brasil"
+         ]
+      },
+      {
+         "year": "2025",
+         "event": "Conquista do 31º título do Campeonato Paulista (Paulistão Sicredi 2025) segundo publicação oficial da Federação Paulista de Futebol (FPF).",
+         "name_for_event": "31º Paulistão",
+         "references": [
+            "https://futebolpaulista.com.br/Noticias/Detalhe/paulistao-sicredi-2025-corinthians-campeao-pela-31a-vez"
+         ]
+      }
+   ]
+}

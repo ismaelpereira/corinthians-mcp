@@ -1,0 +1,15 @@
+{
+   "mcpServers": {
+      "corinthians-mcp": {
+         "command": "/Users/ismaelpereira/src/ismaelpereira/personal/corinthians-mcp/corinthians-mcp",
+         "args": [],
+         "env": {
+            "MEU_TIMAO_FEED_URL": "https://www.meutimao.com.br/rss",
+            "CENTRAL_DO_TIMAO_FEED_URL": "https://www.centraldotimao.com.br/feed/",
+            "MATCHES_API_KEY": "football data.org API key",
+            "MATCHES_API_URL": "https://api.football-data.org",
+            "HISTORY_FILE_PATH": "path to history.json file"
+         }
+      }
+   }
+}
