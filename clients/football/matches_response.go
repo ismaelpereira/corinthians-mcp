@@ -1,12 +1,12 @@
 package clients
 
 type MatchParams struct {
-	Status       MatchStatus
-	Venue        MatchVenue
-	Limit        int
-	DateFrom     string
-	DateTo       string
-	Competitions string
+	Status       MatchStatus `json:"status,omitempty" jsonschema:"description=Filter matches by their status,enum=SCHEDULED, LIVE,IN_PLAY,PAUSED,FINISHED,POSTPONED,SUSPENDED,CANCELLED"`
+	Venue        MatchVenue  `json:"venue,omitempty" jsonschema:"description=Filter matches by venue,enum=HOME,AWAY"`
+	Limit        int         `json:"limit,omitempty" jsonschema:"description=Number of news items to return"`
+	DateFrom     string      `json:"dateFrom,omitempty" jsonschema:"description=Start date for filtering matches"`
+	DateTo       string      `json:"dateTo,omitempty" jsonschema:"description=End date for filtering matches"`
+	Competitions string      `json:"competitions,omitempty" jsonschema:"description=Filter matches by competitions"`
 }
 
 type MatchStatus string
